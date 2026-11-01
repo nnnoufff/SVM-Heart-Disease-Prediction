@@ -6,7 +6,7 @@ Can a Support Vector Machine predict whether a patient has heart disease? This p
 
 ## Dataset
 
-- **Source:** [Heart Failure Prediction (Kaggle)](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
+- **Source:** [Heart Failure Prediction (Kaggle)]([https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction))
 - **Size:** 918 patients, 11 features, 1 target (917 patients after cleaning)
 - **Target:** `HeartDisease` (1 = heart disease, 0 = normal), about 55% / 45%
 
